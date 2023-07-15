@@ -1,14 +1,12 @@
-# Yelp_cloneApp
+# Hiking Trails Review App 
 
-# Yelp Clone App (MEAN Stack)
-
-This repository contains the code for a Yelp clone app built using the MEAN stack (MongoDB, Express.js, Angular, and Node.js). The app allows users to search for and review businesses, similar to the popular Yelp platform.
+This repository contains the code for a Yelp clone app built using the Express, Node.js, and MongoDB stack. The app allows users to search for and review trails, similar to the popular Yelp platform.
 
 ## Features
 
 - User registration and authentication
-- Business search functionality
-- Business details and reviews
+- Trails search functionality
+- Trails details and reviews
 - User review submission
 - User profile management
 
