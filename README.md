@@ -20,8 +20,8 @@ This repository contains the code for a Hiking Trail Review app built using the 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/NeloferArj/Yelp_cloneApp.git
-cd yelp-clone
+git clone https://github.com/NeloferArj/HikingTrailReviewApp.git
+cd HikingTrailReviewApp
 ```
 
 2. Install the dependencies for the backend:
