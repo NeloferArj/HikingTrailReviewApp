@@ -43,7 +43,7 @@ SECRET_KEY=<your-secret-key>
 nodemon app.js
 ```
 
-5. Open your web browser and visit `http://localhost:4200` to access the Yelp clone app.
+5. Open your web browser and visit `http://localhost:4200` to access the app.
 
 ## Folder Structure
 
@@ -52,5 +52,5 @@ nodemon app.js
 
 ## Acknowledgments
 
-- The Yelp clone app is inspired by the original [Yelp](https://www.yelp.com/) platform.
+- This app is inspired by the original [Yelp](https://www.yelp.com/) platform.
 - The Express, Node.js, MongoDB stack provides a robust and efficient framework for building full-stack JavaScript applications.
